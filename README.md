@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Lekhnath Pandey, working as software developer since 2015. Current working as Wordpress Plugin Developer at ThemeGrill Pvt. Ltd. Kathmandu, Nepal.
+I’m currently learning React with Wordpress.
+
 <!--
 **lekhnath005/lekhnath005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
